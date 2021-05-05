@@ -1,5 +1,5 @@
 ### Hi! Welcome to my github page.
-I'm Ömer Faruk Bozbulut. Computer Engineer. <br><br>
+I'm Ömer Faruk Bozbulut. Software Developer. <br><br>
 ![omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbozbulut&show_icons=true) 
 ## Graduation  
 Düzce University <br> 
