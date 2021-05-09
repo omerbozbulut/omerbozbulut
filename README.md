@@ -1,6 +1,9 @@
 ### Hi! Welcome to my github page.
 I'm Ömer Faruk Bozbulut. Software Developer. <br><br>
-![omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerbozbulut&show_icons=true) 
+<p ><img  src="https://github-readme-stats.vercel.app/api?username=omerbozbulut&show_icons=true" alt="omerbozbulut" /></p>
+
+<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omerbozbulut&show_icons=true&locale=en&" alt="omerbozbulut" /></p>
+
 ## Graduation  
 Düzce University <br> 
 
