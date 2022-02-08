@@ -2,7 +2,7 @@
 #### I'm Ömer Faruk Bozbulut. I'm working on İOS development. <br><br>
 <p ><img  src="https://github-readme-stats.vercel.app/api?username=omerbozbulut&show_icons=true" alt="omerbozbulut" /></p>
 
-<p ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=omerbozbulut&show_icons=true&locale=en&" alt="omerbozbulut" /></p>
+
 
 ## Graduation  
 Düzce University - Computer engineering <br> 
